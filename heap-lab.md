@@ -101,9 +101,9 @@ code python
 ```python
 code python
 ```
-
+![alt text](ผลการทดลอง/codeแบบฝึก3.png)
 [Capture รูปส่งตรงนี้]
-
+![alt text](ผลการทดลอง/ผลการทดลองแบบฝึก3.png)
 
 ## การประยุกต์ใช้งานจริง
 
