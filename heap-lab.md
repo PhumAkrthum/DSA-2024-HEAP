@@ -80,9 +80,8 @@ def _sift_down(self, i):
 พร้อมแสดงค่า Max Heap ที่ได้หลังจากเพิ่มข้อมูลครบแล้ว
 ```python
 code python 
-DSA-2024-HEAP/ผลการทดลอง/codeแบบฝึก1.png
-
 ```
+![alt text](ผลการทดลอง/codeแบบฝึก1.png)
 [Capture รูปส่งตรงนี้]
 ![alt text](ผลการทดลอง/ผลการทดลองแบบฝึกหัด1.png)
 
