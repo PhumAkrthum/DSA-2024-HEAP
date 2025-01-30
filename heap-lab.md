@@ -91,14 +91,17 @@ code python
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
 
+![alt text](ผลการทดลอง/codeแบบฝึก2.png)
+[Capture รูปส่งตรงนี้]
+![alt text](ผลการทดลอง/ผลการทดลองแบบฝึกที่2.png)
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
 
 ```python
 code python
 ```
+
 [Capture รูปส่งตรงนี้]
 
 
