@@ -137,7 +137,7 @@ er.add_patient(Patient("คนไข้ C", 2))  # กระดูกหัก
 ```
 
 [Capture รูปผลการทดลองส่งตรงนี้]
-
+![alt text](ผลการทดลอง/emergency.png)
 ### 2. ระบบแนะนำสินค้าขายดี (Top K Items)
 ```python
 class ProductRanking:
@@ -163,7 +163,7 @@ ranking.update_sales("สินค้า C", 80)
 ranking.update_sales("สินค้า D", 200)
 ```
 [Capture รูปผลการทดลองส่งตรงนี้]
-
+![alt text](<ผลการทดลอง/Top K Items.png>)
 ### 3. ตัวอย่างระบบคิวธนาคาร แบบมีระดับความสำคัญ โดยใช้ heapq
 ```python 
 import heapq
@@ -284,4 +284,7 @@ if __name__ == "__main__":
 ```python
 code python
 ```
+![alt text](ผลการทดลอง/codeBank.png)
 [Capture รูปส่งตรงนี้]
+![alt text](ผลการทดลอง/ผลการทดลองBANK1.png) 
+![alt text](ผลการทดลอง/ผลการทดลองBANK2.png)
